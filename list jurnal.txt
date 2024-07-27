@@ -4,3 +4,5 @@ list jurnal
 -Matrix
   *Synta 5
 - Pubmedia
+  ^ Non Synta
+- CRANE
