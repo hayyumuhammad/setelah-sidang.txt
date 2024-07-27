@@ -1,0 +1,5 @@
+list jurnal
+-JRSS
+  *Synta 4
+-Matrix
+  *Synta 5
