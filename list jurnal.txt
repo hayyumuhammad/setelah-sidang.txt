@@ -3,3 +3,4 @@ list jurnal
   *Synta 4
 -Matrix
   *Synta 5
+- Pubmedia
