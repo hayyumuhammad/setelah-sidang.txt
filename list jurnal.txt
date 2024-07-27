@@ -3,6 +3,7 @@ list jurnal
   *Synta 4
 -Matrix
   *Synta 5
+  *tapi kayane wis ora nerima
 - Pubmedia
   ^ Non Synta
 - CRANE
