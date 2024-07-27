@@ -3,4 +3,8 @@ list jurnal
   *Synta 4
 -Matrix
   *Synta 5
--Jurnal Pendidikan
+  *tapi kayane wis ora nerima
+- Pubmedia
+  ^ Non Synta
+- CRANE
+
